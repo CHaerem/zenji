@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T16:32:25.676Z",
+  "generatedAt": "2026-07-24T18:16:32.987Z",
   "windowDays": 14,
   "ports": {
     "coverage": "green",
@@ -143,26 +143,26 @@
   },
   "silentStops": {
     "buildOk": true,
-    "buildCheckedAt": "2026-07-24T16:32:19.766Z",
+    "buildCheckedAt": "2026-07-24T18:16:27.022Z",
     "buildAgeHours": 0,
-    "manifestGeneratedAt": "2026-07-24T14:53:40.718Z",
-    "manifestAgeHours": 1.65,
+    "manifestGeneratedAt": "2026-07-24T16:32:29.171Z",
+    "manifestAgeHours": 1.73,
     "staleFiles": [
       {
         "file": "esports.json",
         "sourceLastUpdated": "2026-07-22T17:14:23.351Z",
-        "ageHours": 47.3
+        "ageHours": 49.04
       },
       {
         "file": "football.json",
         "sourceLastUpdated": "2026-07-19T17:56:30.377Z",
-        "ageHours": 118.6
+        "ageHours": 120.33
       }
     ]
   },
   "participantStatus": {
     "checkedAt": "2026-07-24T07:45:00Z",
-    "verifyAgeHours": 8.79,
+    "verifyAgeHours": 10.53,
     "corrections": 0,
     "unresolved": 0,
     "signals": []

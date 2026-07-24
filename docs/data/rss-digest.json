@@ -1,7 +1,39 @@
 {
-  "lastUpdated": "2026-07-24T16:32:06.887Z",
-  "itemCount": 42,
+  "lastUpdated": "2026-07-24T18:16:14.724Z",
+  "itemCount": 29,
   "items": [
+    {
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "Grefstad Frøynes vinner 800 meter for kvinner",
+      "description": "Amanda Grefstad Frøynes var raskest på 800 meter for kvinner og tok gullet rett foran konkurrentene.\r\nPå oppløpet var det ingen som klarte å henge på tempoet til 27-åringen.\r\n– Jeg er helt tom for ord",
+      "link": "https://www.nrk.no/sport/grefstad-froynes-vinner-800-meter-for-kvinner-1.17968521",
+      "pubDate": "Fri, 24 Jul 2026 17:55:42 GMT"
+    },
+    {
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "Manchester United lekte seg mot Rosenborg",
+      "description": "En ivrig gjeng med unggutter sørget for målrush under showkampen mellom Manchester United og Rosenborg.\r\nGjestene fra England vant 5–0.\r\nUnited stilte med flere etablerte førstelagsspillere fra start,",
+      "link": "https://www.nrk.no/sport/manchester-united-lekte-seg-mot-rosenborg-1.17968567",
+      "pubDate": "Fri, 24 Jul 2026 17:55:02 GMT"
+    },
+    {
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "It’s coming home",
+      "description": "Fotballen er på vei hjem fra VM, med noen skrubbsår og mislykkede forsøk på plastiske operasjoner. Spørsmålet er om de noen gang lar seg rette opp.",
+      "link": "https://www.nrk.no/fotballvm2026/vm-oppsummert_-it_s-coming-home-1.17965751",
+      "pubDate": "Fri, 24 Jul 2026 17:35:05 GMT"
+    },
+    {
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "Medier: Pirlo blir Italia-trener",
+      "description": "Andrea Pirlo (47) får jobben med å løfte italiensk landslagsfotball etter nederlagene for Norge i VM-kvalifiseringen.\r\nStoravisen Gazzetta dello Sport og overgangseksperten Fabrizio Romano er blant de",
+      "link": "https://www.nrk.no/sport/medier_-pirlo-blir-italia-trener-1.17968520",
+      "pubDate": "Fri, 24 Jul 2026 16:43:10 GMT"
+    },
     {
       "source": "nrk-sport",
       "sport": "general",
@@ -19,20 +51,12 @@
       "pubDate": "Fri, 24 Jul 2026 15:43:58 GMT"
     },
     {
-      "source": "tv2-sport",
+      "source": "nrk-sport",
       "sport": "general",
-      "title": "Jakter nytt EM: – Trodde ikke jeg skulle stå her igjen",
-      "description": "LARVIK (TV 2): Få uker før 40-årsdagen kjemper Elisabeth Slettum om en ny EM-plass – 20 år etter debuten.",
-      "link": "https://www.tv2.no/a/19073841",
-      "pubDate": "Fri, 24 Jul 2026 15:37:31 GMT"
-    },
-    {
-      "source": "tv2-sport",
-      "sport": "general",
-      "title": "Ikke vist på TV: – Ser ikke bra ut",
-      "description": "ALPE D'HUEZ (TV 2): Dramatiske scener i Tour de France.",
-      "link": "https://www.tv2.no/a/19075099",
-      "pubDate": "Fri, 24 Jul 2026 15:32:12 GMT"
+      "title": "Rystende Tour-bilder: – Lurer på om han knuste ruta med fjeset",
+      "description": "Det gikk fryktelig galt for colombianske Einer Rubio opp Alpe d'Huez-stigningen i Tour de France. Han krasjet med en bil.",
+      "link": "https://www.nrk.no/sport/kaos-opp-ikonisk-tour-de-france-bakke-_-krasjet-med-lagbil-1.17968434",
+      "pubDate": "Fri, 24 Jul 2026 15:33:05 GMT"
     },
     {
       "source": "nrk-sport",
@@ -99,36 +123,12 @@
       "pubDate": "Fri, 24 Jul 2026 12:46:15 GMT"
     },
     {
-      "source": "autosport-f1",
-      "sport": "formula1",
-      "title": "F1 Hungarian GP: Leclerc tops FP1, Stroll suffers suspected suspension failure with upgraded Aston Martin",
-      "description": "Ferrari driver Charles Leclerc topped opening practice at Formula 1's Hungarian Grand Prix, his early benchmark proving over four tenths quicker than Red Bull's Max Verstappen and team-mate Lewis Hami",
-      "link": "https://www.autosport.com/f1/news/f1-hungarian-gp-fp1-report-/10841359/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk",
-      "pubDate": "Fri, 24 Jul 2026 12:45:57 +0000"
-    },
-    {
       "source": "guardian-football",
       "sport": "football",
       "title": "Jürgen Klopp vows to change Germany but threatens to quit if family hounded by media",
       "description": "Suggests role will be his final job in top-level footballWarns journalists to ‘leave my family in peace’Jürgen Klopp said he wants his team to “change a country” after being confirmed as Germany’s new",
       "link": "https://www.theguardian.com/football/2026/jul/24/germany-confirm-jurgen-klopp-new-head-coach",
       "pubDate": "Fri, 24 Jul 2026 12:08:39 GMT"
-    },
-    {
-      "source": "autosport-f1",
-      "sport": "formula1",
-      "title": "Malaysia weighs up F1 2026 round as rescheduled Bahrain GP plan fades",
-      "description": "The Malaysian government is conducting a feasibility study into organising a last-minute Formula 1 grand prix as the Middle Eastern conflict continues to throw plans into disarray.The US-Israeli war o",
-      "link": "https://www.autosport.com/f1/news/malaysia-weighs-up-f1-2026-round-as-rescheduled-bahrain-gp-plan-fades/10841345/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk",
-      "pubDate": "Fri, 24 Jul 2026 11:34:16 +0000"
-    },
-    {
-      "source": "tv2-sport",
-      "sport": "general",
-      "title": "TV 2 erfarer: Avslo bud på juvel",
-      "description": "Daniel Job (20) kan bli Kongsvingers neste rekordsalg.",
-      "link": "https://www.tv2.no/a/19074424",
-      "pubDate": "Fri, 24 Jul 2026 11:01:52 GMT"
     },
     {
       "source": "guardian-football",
@@ -155,14 +155,6 @@
       "pubDate": "Fri, 24 Jul 2026 10:56:36 GMT"
     },
     {
-      "source": "tv2-sport",
-      "sport": "general",
-      "title": "TV 2 erfarer: Norsk spiss selges til tsjekkisk storklubb",
-      "description": "Den norske spissen Jonatan Braut Brunes (25) er i ferd med å selges for et rekordbeløp.",
-      "link": "https://www.tv2.no/a/19074451",
-      "pubDate": "Fri, 24 Jul 2026 10:11:04 GMT"
-    },
-    {
       "source": "guardian-football",
       "sport": "football",
       "title": "David Squires on … the notable people and big moments from World Cup 2026",
@@ -177,38 +169,6 @@
       "description": "Jürgen Klopp (59) tar over Tysklands landslag etter at Julian Nagelsmann mistet jobben etter VM-exiten.\r\nNagelsmann og Tyskland led en tung VM-skjebne med tap for Paraguay etter straffesparkkonkurrans",
       "link": "https://www.nrk.no/sport/bekreftet_-jurgen-klopp-ny-tyskland-trener-1.17967943",
       "pubDate": "Fri, 24 Jul 2026 09:03:50 GMT"
-    },
-    {
-      "source": "tv2-sport",
-      "sport": "general",
-      "title": "Klopp tar over Tyskland: – En stor ære",
-      "description": "Jürgen Klopp (59) tar over det tyske landslaget etter VM-flausen.",
-      "link": "https://www.tv2.no/a/19036997",
-      "pubDate": "Fri, 24 Jul 2026 09:01:19 GMT"
-    },
-    {
-      "source": "autosport-f1",
-      "sport": "formula1",
-      "title": "‘If you're not ready to adapt, you're not good enough’ - Norris addresses changing driving styles in F1 2026",
-      "description": "Drivers have been vocal about how the complex energy deployment needs of the 2026 generation of Formula 1 cars have impacted how they have to be driven, with the reliance on energy harvesting causing ",
-      "link": "https://www.autosport.com/f1/news/you-have-to-do-it-lando-norris-admits-f1-drivers-are-paid-millions-to-adapt-to-2026-f1-cars/10841286/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk",
-      "pubDate": "Fri, 24 Jul 2026 08:32:33 +0000"
-    },
-    {
-      "source": "tv2-sport",
-      "sport": "general",
-      "title": "Slår alarm: – Veldig kritisk",
-      "description": "ORCIÈRES-MERLETTE (TV 2): Tadej Pogacar (27) leder Tour de France suverent. Men sykdomsproblemene i laget skaper bekymring.",
-      "link": "https://www.tv2.no/a/19073313",
-      "pubDate": "Fri, 24 Jul 2026 07:13:04 GMT"
-    },
-    {
-      "source": "tv2-sport",
-      "sport": "general",
-      "title": "Åpner for stjernesalg til Manchester United",
-      "description": "Samtidig skal Manchester City-sjef Enzo Maresca ha sett seg ut to profiler fra gamleklubben Chelsea.",
-      "link": "https://www.tv2.no/a/19073614",
-      "pubDate": "Fri, 24 Jul 2026 06:03:38 GMT"
     },
     {
       "source": "guardian-football",
@@ -243,22 +203,6 @@
       "pubDate": "Fri, 24 Jul 2026 04:08:19 GMT"
     },
     {
-      "source": "tv2-sport",
-      "sport": "general",
-      "title": "Advarer norske supportere: – Voldsomt brutalt",
-      "description": "To av Premier Leagues største klubber har trappet kraftig opp kampen mot svartebørssalg og misbruk av billettsystemene.",
-      "link": "https://www.tv2.no/a/19071364",
-      "pubDate": "Fri, 24 Jul 2026 04:00:00 GMT"
-    },
-    {
-      "source": "tv2-sport",
-      "sport": "general",
-      "title": "Røper hvorfor hun la opp som 29-åring: – Har aldri fortalt det før",
-      "description": "Den tidligere tennisstjernen Ana Ivanovic (38) åpner opp om hvorfor hun valgte å legge opp for ni år siden.",
-      "link": "https://www.tv2.no/a/19073524",
-      "pubDate": "Thu, 23 Jul 2026 21:04:25 GMT"
-    },
-    {
       "source": "nrk-sport",
       "sport": "general",
       "title": "Jæger: Tok NM-gull på 400 meter",
@@ -289,54 +233,6 @@
       "description": "Brann hadde full kontroll og ledet 2–0 borte mot Universitatea Cluj. Så raknet det fullstendig på tampen.\r\nFørste omgang av oppgjøret skulle vise seg å være en sjansefattig affære, men fem minutter fø",
       "link": "https://www.nrk.no/sport/brann-kollaps-i-romania_-mistet-tomalsledelse-pa-to-minutter-1.17967539",
       "pubDate": "Thu, 23 Jul 2026 18:51:52 GMT"
-    },
-    {
-      "source": "nrk-sport",
-      "sport": "general",
-      "title": "Filip Ingebrigtsen tok NM-sølv på 5000 meter",
-      "description": "Filip Ingebrigtsen leverte eit sterkt løp på 5000-meteren under NM i Friidrett i Trondheim og sprang inn til ein 2.-plass.\r\nSandnes-løparen har hatt ein svingande sesong med både avbrutte løp og ny år",
-      "link": "https://www.nrk.no/sport/filip-ingebrigtsen-tok-nm-solv-pa-5000-meter---1.17967533",
-      "pubDate": "Thu, 23 Jul 2026 18:50:59 GMT"
-    },
-    {
-      "source": "nrk-sport",
-      "sport": "general",
-      "title": "Bommet på straffe – tapte i Europareturen",
-      "description": "– Den er blytung for Tromsø!\r\nDet kommenterer VGTVs Asbjørn Myhre i det den tsjekkiske klubben Hradec Kralove går opp i 0–1 på Romssa Arena.\r\nFor «gutan» hadde kontrollert omtrent alt på eget kunstgre",
-      "link": "https://www.nrk.no/sport/bommet-pa-straffe-_-tapte-i-europareturen-1.17967556",
-      "pubDate": "Thu, 23 Jul 2026 18:50:40 GMT"
-    },
-    {
-      "source": "nrk-sport",
-      "sport": "general",
-      "title": "Noregs raskaste har talt: Fremstad-Waldron og Rønningen tok NM-gull",
-      "description": "Under opningsdagen av NM i Friidrett i Trondheim var det knytt stor spenning til sprintduellen og kven som eigentleg er Noreg sin raskaste mann.\r\nFeltet låg jamt ute frå startblokkene ein liten stund,",
-      "link": "https://www.nrk.no/sport/noregs-raskaste-har-talt_-fremstad-waldron-og-ronningen-tok-nm-gull-1.17967526",
-      "pubDate": "Thu, 23 Jul 2026 18:16:19 GMT"
-    },
-    {
-      "source": "guardian-football",
-      "sport": "football",
-      "title": "Chelsea paid Aston Villa £117m for Morgan Rogers. Is he the right fit?",
-      "description": "The England attacker thrives when he can gallop into space but Xabi Alonso’s best team built attacks slowlyBy Opta AnalystIt quickly became apparent this summer that Aston Villa would not be holding o",
-      "link": "https://www.theguardian.com/football/2026/jul/23/chelsea-aston-villa-117m-morgan-rogers-england-xabi-alonso",
-      "pubDate": "Thu, 23 Jul 2026 18:00:51 GMT"
-    },
-    {
-      "source": "nrk-sport",
-      "sport": "general",
-      "title": "Embla (19) mista kontrollen på kroppen: – Heile livet blei sett på pause",
-      "description": "Etter eit marerittår med utmatting og sjukdom, kjentest vegen tilbake lang for Embla Matilde Njerve. No står friidrettstalentet endeleg på tilløpet igjen – med VM-billett i lomma.",
-      "link": "https://www.nrk.no/sport/embla-matilde-njerve-_19_-mista-kontrollen-pa-kroppen_-_-heile-livet-blei-sett-pa-pause-1.17966861",
-      "pubDate": "Thu, 23 Jul 2026 17:04:56 GMT"
-    },
-    {
-      "source": "autosport-f1",
-      "sport": "formula1",
-      "title": "\"You're not allowed to make a difference\" – Verstappen says the fastest F1 drivers are penalised",
-      "description": "Following the race weekend at Spa-Francorchamps, and particularly Oscar Piastri's strong comments, one topic dominates media day in Budapest: energy management, more specifically the self-learning asp",
-      "link": "https://www.autosport.com/f1/news/max-verstappen-at-first-they-said-i-was-complaining-now-more-people-see-what-f1-2026-is-like/10841206/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk",
-      "pubDate": "Thu, 23 Jul 2026 17:03:14 +0000"
     }
   ]
 }

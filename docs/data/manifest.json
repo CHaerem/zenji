@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T16:32:29.171Z",
+  "generatedAt": "2026-07-24T18:16:34.514Z",
   "schemaVersion": 1,
   "files": {
     "app-version.json": {
@@ -8,11 +8,11 @@
     },
     "build-alert.json": {
       "bytes": 79,
-      "sha256": "dac05e957bf6e2e9424937285d101de33ed46fb7d2c70c921e06db4adcb9425a"
+      "sha256": "51babf76d805457889322ddf0e00923bde086326bf30ea0751ee303541f26cae"
     },
     "calibration.json": {
       "bytes": 19178,
-      "sha256": "56a5a2761b4ffee1c8359fd58aca97ea8815259a06747aa9137d0cc906ffbea3"
+      "sha256": "d9b18517becb2c38566a910fa06574452b553ee30d8cb00402cb8046d725c18a"
     },
     "catalog.json": {
       "bytes": 13175,
@@ -20,8 +20,8 @@
     },
     "chess.json": {
       "bytes": 105,
-      "sha256": "fc6fafc7c255f01d5e1d5d4901797426e985e9eb09acc0fd01b11afc4f2b88bf",
-      "sourceLastUpdated": "2026-07-24T16:31:46.602Z"
+      "sha256": "7d0e0a324214ca336c41699996c690f24130a601af5198ae57187601b73f9eb4",
+      "sourceLastUpdated": "2026-07-24T18:15:54.643Z"
     },
     "coverage-audit.json": {
       "bytes": 5301,
@@ -29,12 +29,12 @@
     },
     "coverage-gaps.json": {
       "bytes": 4610,
-      "sha256": "0b818b4794669ad3c8099758d087b4e0733573d852cd47e17c83c673ed6ce930"
+      "sha256": "77361ffe903522f8bb79a326a478cc2b70c61eb9f339a04423de2c72b70175fb"
     },
     "cycling.json": {
       "bytes": 99,
-      "sha256": "0b55f6925383270ce962d11ef65fc930d670ac96a5b069071e702bae8891f722",
-      "sourceLastUpdated": "2026-07-24T16:31:45.562Z"
+      "sha256": "c5160643c11e9f60b574b9b8b0f1f484e4e02adade430c4334ac80cc5c1a3456",
+      "sourceLastUpdated": "2026-07-24T18:15:54.087Z"
     },
     "entities.json": {
       "bytes": 806887,
@@ -42,12 +42,12 @@
     },
     "esports.json": {
       "bytes": 1245,
-      "sha256": "12f93cd41f862dafc8736c9564216822185dd0a8afaf514212624ec1476ca442",
+      "sha256": "150160586d81a97546fac44de36a27cd8444a5d69573a20bb6c47f66e380cd9c",
       "sourceLastUpdated": "2026-07-22T17:14:23.351Z"
     },
     "events.ics": {
       "bytes": 50038,
-      "sha256": "e09f5e19e2af702981033e381e1b8377e0b4b352b259aaa87101219992147f41"
+      "sha256": "8b388b5de8f6bf79e158b400ea9fc4aea55301abddf453f51d2883a8193d7b96"
     },
     "events.json": {
       "bytes": 111153,
@@ -55,8 +55,8 @@
     },
     "f1.json": {
       "bytes": 3104,
-      "sha256": "e5b13d7d830e209b0003535908658d66d12715ef18fb8ed44d7d2fe812e4e4ed",
-      "sourceLastUpdated": "2026-07-24T16:31:46.323Z"
+      "sha256": "bca9168848d4cfa6d0632bc97d5ce00ce5cc74aae833a1ae75f38f708058a2f4",
+      "sourceLastUpdated": "2026-07-24T18:15:54.572Z"
     },
     "featured.json": {
       "bytes": 226,
@@ -64,13 +64,13 @@
     },
     "football.json": {
       "bytes": 1305,
-      "sha256": "39f7b572a8e7644efc71423e7cdfea09d37d4c335b3c1ce737b4c432543ddb17",
+      "sha256": "43b6c9e9491fbf2c0f84f74826ee6d80d965400ec67a39e37a8d12daca07faef",
       "sourceLastUpdated": "2026-07-19T17:56:30.377Z"
     },
     "golf.json": {
       "bytes": 1552,
-      "sha256": "6126163dd899ce6aee0809f25a10cf86a5c0551a81512b9847ff74a197f0cbee",
-      "sourceLastUpdated": "2026-07-24T16:31:49.120Z"
+      "sha256": "53f3d1ef9d298ddb556e7c70a4aaed834bb740e4c9028f432893152e78b9c6a3",
+      "sourceLastUpdated": "2026-07-24T18:15:57.262Z"
     },
     "improve-log.json": {
       "bytes": 1704,
@@ -78,30 +78,30 @@
     },
     "meta.json": {
       "bytes": 39,
-      "sha256": "c28cb39aa200bc055b955f01a3ac37c3798f39513fd37d2addd72923808e92df",
-      "sourceLastUpdated": "2026-07-24T14:53:40Z"
+      "sha256": "b3d01aa6f7e5477603ca71ce878d5f7a953f1ed3c4bdea631e00c89f83b0b975",
+      "sourceLastUpdated": "2026-07-24T16:32:29Z"
     },
     "news.json": {
-      "bytes": 17910,
-      "sha256": "b6323733f6b548ebdbd785bd0a42583deaf15d40b9191f8c82dba059caf45259"
+      "bytes": 12340,
+      "sha256": "b35b4cdd09d924a73e84493775dbe197aa19bc81474a016df8c260a51d888023"
     },
     "port-report.json": {
-      "bytes": 3658,
-      "sha256": "6513a54b75850c8e72c8ce0fb549ae2570f766e3bdffa237244e739215aa9713"
+      "bytes": 3661,
+      "sha256": "9c996eb5d887856166e3134506da35a62b0aab22c2de21bd97b00a07ab67f5b9"
     },
     "recent-results.json": {
-      "bytes": 14725,
-      "sha256": "449b01246118003896af3235bede7e64f4af3b7b82eb6d3ac4a0a58924d8f429",
-      "sourceLastUpdated": "2026-07-24T16:32:06.993Z"
+      "bytes": 14261,
+      "sha256": "d6d8def742257aca6e622d7c44ac45b06ddade3a61eb999f2bc2f2ad9bd45193",
+      "sourceLastUpdated": "2026-07-24T18:16:14.834Z"
     },
     "research-log.json": {
       "bytes": 7358,
       "sha256": "a3787bbc781b51de8e58862e355d0f91a22cfd852fb5a4e596de6bffcd10d9e2"
     },
     "rss-digest.json": {
-      "bytes": 21567,
-      "sha256": "1eed2c6b8816bf806d015df3d136f33cba87dece7df8a6133eac9a573e6125e6",
-      "sourceLastUpdated": "2026-07-24T16:32:06.887Z"
+      "bytes": 15343,
+      "sha256": "852fdec513ac13ac380389f78828c3314e2fe970846cc9ad99cf08c5bcd62648",
+      "sourceLastUpdated": "2026-07-24T18:16:14.724Z"
     },
     "scout-log.json": {
       "bytes": 34278,
@@ -112,14 +112,14 @@
       "sha256": "3da5ca267225700fbc187151e25d93170c4bd92066d8a1db807d52a487a0e30e"
     },
     "standings.json": {
-      "bytes": 29772,
-      "sha256": "ac41355b0294fd7d31c7b7c1352c04e2427036eecf6a4b77266acf36198435cb",
-      "sourceLastUpdated": "2026-07-24T16:31:57.096Z"
+      "bytes": 29773,
+      "sha256": "a061a9b34c7481c3bcfa59c482cf4e008a9b60d15889ddeecf1fa306b7fad450",
+      "sourceLastUpdated": "2026-07-24T18:16:04.443Z"
     },
     "tennis.json": {
       "bytes": 3893,
-      "sha256": "caf78496bda1eb9d17039ab4b401b54c54557c328e7597a58064da25782a4b01",
-      "sourceLastUpdated": "2026-07-24T16:31:48.826Z"
+      "sha256": "288762138350474f211d2735ef4b2decf4ee18121aaf77da0622fd14f6ddcdfb",
+      "sourceLastUpdated": "2026-07-24T18:15:56.929Z"
     },
     "tracked.json": {
       "bytes": 103286,
@@ -128,7 +128,7 @@
     },
     "tv-listings.json": {
       "bytes": 1899,
-      "sha256": "3516f73ea65df6ebab4b780857875a87463851ec069812ebdba10e20f7470e6c"
+      "sha256": "8af9a502ede8778d2a2874983a46977af72fca0a0f2b2326d3264c62765295a6"
     },
     "ui-fix-log.json": {
       "bytes": 1538,
@@ -136,11 +136,11 @@
     },
     "usage-state.json": {
       "bytes": 509,
-      "sha256": "9e9214fb1ebe7b4497eb49684ccd63ae921d84f3197b8a88e62085a8ae1aace8"
+      "sha256": "7aa8214061e6a4fe5ebe18ecd8843bf849c2ac171e3d264d41f55aa387394a47"
     },
     "usage-summary.json": {
-      "bytes": 501,
-      "sha256": "dd44b2ecaad2e9415f7d681b1c0039c8215852fd4949b52c2e524a05fb967726"
+      "bytes": 502,
+      "sha256": "0346460b59d469d416208704dfe7045180606be96b737c8cd56466adeb961aa6"
     },
     "verify-log.json": {
       "bytes": 1767,
