@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-24T16:59:19.304Z",
+  "generatedAt": "2026-07-24T18:49:48.606Z",
   "latest": {
-    "checkedAt": "2026-07-24T16:59:19.303Z",
+    "checkedAt": "2026-07-24T18:49:48.605Z",
     "sessionPct": 5,
     "weekPct": 100,
     "status": "red"
@@ -10,17 +10,17 @@
   "last7d": {
     "samples": 69,
     "peakWeekPct": 100,
-    "avgWeekPct": 59,
+    "avgWeekPct": 60,
     "peakSessionPct": 75,
     "amberHours": 17,
-    "redHours": 10
+    "redHours": 11
   },
   "last30d": {
-    "samples": 171,
+    "samples": 172,
     "peakWeekPct": 100,
     "avgWeekPct": 50,
     "peakSessionPct": 100,
     "amberHours": 29,
-    "redHours": 25
+    "redHours": 26
   }
 }
