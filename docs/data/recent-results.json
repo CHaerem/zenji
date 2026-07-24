@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T14:53:21.489Z",
+  "lastUpdated": "2026-07-24T16:32:06.993Z",
   "football": [
     {
       "homeTeam": "Bodo/Glimt",
@@ -338,43 +338,43 @@
       "topPlayers": [
         {
           "position": 1,
-          "player": "Ben Kohles",
-          "score": "-10",
+          "player": "Michael Kim",
+          "score": "-13",
           "roundScore": "-",
           "thru": "-"
         },
         {
           "position": 2,
-          "player": "Michael Kim",
-          "score": "-9",
+          "player": "Ben Kohles",
+          "score": "-11",
           "roundScore": "-",
           "thru": "-"
         },
         {
           "position": 3,
           "player": "Gary Woodland",
-          "score": "-7",
+          "score": "-11",
           "roundScore": "-",
           "thru": "-"
         },
         {
           "position": 4,
-          "player": "Jackson Koivun",
-          "score": "-7",
+          "player": "Billy Horschel",
+          "score": "-8",
           "roundScore": "-",
           "thru": "-"
         },
         {
           "position": 5,
           "player": "Troy Merritt",
-          "score": "-5",
+          "score": "-6",
           "roundScore": "-",
           "thru": "-"
         }
       ],
       "norwegianPlayers": [
         {
-          "position": 110,
+          "position": 60,
           "player": "Kristoffer Ventura",
           "score": "+1",
           "roundScore": "-",

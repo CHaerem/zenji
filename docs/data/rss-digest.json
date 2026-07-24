@@ -1,14 +1,54 @@
 {
-  "lastUpdated": "2026-07-24T14:53:15.505Z",
-  "itemCount": 55,
+  "lastUpdated": "2026-07-24T16:32:06.887Z",
+  "itemCount": 42,
   "items": [
     {
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "title": "Lorena Wiebes overcomes messy lead-out to sprint to victory on opening stage of Tour de Pologne Women",
-      "description": "SD Worx-Protime go 1-2 with Barbara Guarischi second, Marthe Truyven third",
-      "link": "https://www.cyclingnews.com/pro-cycling/womens-cycling/lorena-wiebes-overcomes-messy-lead-out-to-sprint-to-victory-on-opening-stage-of-tour-de-pologne-women/",
-      "pubDate": "Fri, 24 Jul 2026 14:35:00 +0000"
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "Kronikk: Trygg trening",
+      "description": "",
+      "link": "https://www.nrk.no/artikkel/trygg-trening-1523475",
+      "pubDate": "Fri, 24 Jul 2026 16:00:53 GMT"
+    },
+    {
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "Basketballegenden LeBron James klar for ny klubb",
+      "description": "LeBron James har bestemt seg for å slutte seg til Philadelphia 76ers for sin 24. NBA-sesong, melder Reuters.\r\nHan forlenger dermed sin egen rekord over antall NBA-sesonger.\r\n«Jeg trodde jeg var ferdig",
+      "link": "https://www.nrk.no/sport/basketballegenden-lebron-james-klar-for-ny-klubb-1.17968460",
+      "pubDate": "Fri, 24 Jul 2026 15:43:58 GMT"
+    },
+    {
+      "source": "tv2-sport",
+      "sport": "general",
+      "title": "Jakter nytt EM: – Trodde ikke jeg skulle stå her igjen",
+      "description": "LARVIK (TV 2): Få uker før 40-årsdagen kjemper Elisabeth Slettum om en ny EM-plass – 20 år etter debuten.",
+      "link": "https://www.tv2.no/a/19073841",
+      "pubDate": "Fri, 24 Jul 2026 15:37:31 GMT"
+    },
+    {
+      "source": "tv2-sport",
+      "sport": "general",
+      "title": "Ikke vist på TV: – Ser ikke bra ut",
+      "description": "ALPE D'HUEZ (TV 2): Dramatiske scener i Tour de France.",
+      "link": "https://www.tv2.no/a/19075099",
+      "pubDate": "Fri, 24 Jul 2026 15:32:12 GMT"
+    },
+    {
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "IOC behandler ikke klage på Fifa-presidenten: – Utenfor jurisdiksjonen",
+      "description": "Den internasjonale olympiske komité er ikke i stand til å forfølge anklagen om at Fifa-president Gianni Infantino brøt reglene om politisk nøytralitet under VM.\r\nDet sier en talsperson for IOC til nyh",
+      "link": "https://www.nrk.no/sport/ioc-behandler-ikke-klage-pa-fifa-presidenten_-_-utenfor-jurisdiksjonen-1.17968403",
+      "pubDate": "Fri, 24 Jul 2026 15:13:02 GMT"
+    },
+    {
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "Uno-X-proff skal kjempe om seieren i Offroad Finnmark",
+      "description": "Ådne Holter representerer sykkellaget Uno-X Mobility. I mai deltok han på Giro d`Italia, men han har i tillegg to seire i Birkebeinerrittet og en UCI-seier på CV-en.\r\nSamtidig som hans lagkamerater kj",
+      "link": "https://www.nrk.no/tromsogfinnmark/uno-x-proff-skal-kjempe-om-seieren-i-offroad-finnmark-1.17968381",
+      "pubDate": "Fri, 24 Jul 2026 15:10:41 GMT"
     },
     {
       "source": "guardian-football",
@@ -37,26 +77,10 @@
     {
       "source": "guardian-football",
       "sport": "football",
-      "title": "Manchester United and the quest to make mythical midfield a reality",
-      "description": "Like the urban myth that you are never more than three feet away from a spider, modern footballing lore tells us Manchester United are only ever three signings away from a Premier League title challen",
+      "title": "Football Daily | Manchester United and the quest to make mythical midfield a reality",
+      "description": "Sign up now! Sign up now! Sign up now? Sign up now!Like the urban myth that you are never more than three feet away from a spider, modern footballing lore tells us Manchester United are only ever thre",
       "link": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter",
       "pubDate": "Fri, 24 Jul 2026 14:02:33 GMT"
-    },
-    {
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "title": "Dramaet fortsetter: Finalen i Afrikamesterskapet skal avgjøres i CAS",
-      "description": "Senegal anker tapet av Afrikamesterskapet i fotball.",
-      "link": "https://www.aftenposten.no/sport/i/6q5qgQ/dramaet-fortsetter-finalen-i-afrikamesterskapet-skal-avgjoeres-i-cas",
-      "pubDate": "Fri, 24 Jul 2026 13:33:30 GMT"
-    },
-    {
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "title": "Bruddet med Gjert Ingebrigtsen: – Det ble et ork",
-      "description": "Narve Gilje Nordås har uttalt seg for første gang etter at det ble kjent at hans samarbeid med trener Gjert Ingebrigtsen…",
-      "link": "https://www.aftenposten.no/sport/i/L494B9/narve-gilje-nordaas-etter-bruddet-med-ingebrigtsen-det-ble-et-ork",
-      "pubDate": "Fri, 24 Jul 2026 13:21:19 GMT"
     },
     {
       "source": "nrk-sport",
@@ -65,14 +89,6 @@
       "description": "Narve Gilje Nordås innrømmer at belastninga blei for stor, og at det blei for mykje støy. I den nye kvardagen kjenner han på ei lette.",
       "link": "https://www.nrk.no/sport/narve-gilje-nordas-om-gjert-ingebrigtsen-brotet_-_-det-kostar-meir-enn-det-gir-1.17967957",
       "pubDate": "Fri, 24 Jul 2026 13:00:04 GMT"
-    },
-    {
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "title": "'Tadej is OK' – UAE Team Emirates play down doubts about Tadej Pogačar's health after illness strikes Tour de France team",
-      "description": "'Every rider wants to win on this mythical mountain and that goes for us too' says DS before Alpe d'Huez",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/tadej-is-ok-uae-team-emirates-play-down-doubts-about-tadej-pogacars-health-after-illness-strikes-tour-de-france-team/",
-      "pubDate": "Fri, 24 Jul 2026 12:47:00 +0000"
     },
     {
       "source": "nrk-sport",
@@ -99,30 +115,6 @@
       "pubDate": "Fri, 24 Jul 2026 12:08:39 GMT"
     },
     {
-      "source": "chessbase",
-      "sport": "chess",
-      "title": "FIDE President Dvorkovich added to EU Sanctions List",
-      "description": "In its 21st package of sanctions in response to Russia's invasion of Ukraine, the European Union has added Arkady Dvorkovich to its list of sanctioned individuals. The FIDE President has temporarily s",
-      "link": "https://en.chessbase.com/post/fide-president-dvorkovich-added-to-eu-sanctions-list",
-      "pubDate": "Fri, 24 Jul 2026 11:58:15 GMT"
-    },
-    {
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "title": "Alexandersson om RBK-ansettelsen: – Vanvittig",
-      "description": "Den nye RBK-sjefen forteller om døgnet som endret alt – og hvordan han vil vekke Rosenborg til live igjen.",
-      "link": "https://www.aftenposten.no/sport/i/7pjpBv/alexandersson-om-rbk-ansettelsen-vanvittig",
-      "pubDate": "Fri, 24 Jul 2026 11:56:14 GMT"
-    },
-    {
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "title": "Tour de France stage 19 LIVE: Martinez, Carapaz, Paret-Peintre and Yates among those in large break on Alpe d'Huez day",
-      "description": "For the first time in Tour history, Alpe d’Huez will be faced two days in a row, starting with a short, explosive stage 19, 127.9km with 3500 metres of elevation gain",
-      "link": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-19-live-the-tour-heads-to-the-the-iconic-alpe-dhuez/",
-      "pubDate": "Fri, 24 Jul 2026 11:37:56 +0000"
-    },
-    {
       "source": "autosport-f1",
       "sport": "formula1",
       "title": "Malaysia weighs up F1 2026 round as rescheduled Bahrain GP plan fades",
@@ -131,24 +123,8 @@
       "pubDate": "Fri, 24 Jul 2026 11:34:16 +0000"
     },
     {
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "title": "'The goal is to be at the front and fight for this jersey' – Valentin Paret-Peintre continues Tour de France polka dot battle against Pogačar and Carapaz on Alpe d'Huez",
-      "description": "'There's one I can control, and the other who does pretty much what he wants' says Frenchman",
-      "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/the-goal-is-to-be-at-the-front-and-fight-for-this-jersey-valentin-paret-peintre-continues-tour-de-france-polka-dot-battle-against-pogacar-and-carapaz-on-alpe-dhuez/",
-      "pubDate": "Fri, 24 Jul 2026 11:08:12 +0000"
-    },
-    {
       "source": "tv2-sport",
       "sport": "general",
-      "title": "TV 2 erfarer: Avslo bud på juvel",
-      "description": "Daniel Job (20) kan bli Kongsvingers neste rekordsalg.",
-      "link": "https://www.tv2.no/a/19074424",
-      "pubDate": "Fri, 24 Jul 2026 11:01:52 GMT"
-    },
-    {
-      "source": "tv2-fotball",
-      "sport": "football",
       "title": "TV 2 erfarer: Avslo bud på juvel",
       "description": "Daniel Job (20) kan bli Kongsvingers neste rekordsalg.",
       "link": "https://www.tv2.no/a/19074424",
@@ -179,24 +155,8 @@
       "pubDate": "Fri, 24 Jul 2026 10:56:36 GMT"
     },
     {
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "title": "Fears of chaos on L'Alpe d'Huez as crowds pack Alpine climb for Tour de France showdown",
-      "description": "Fan favourite Baptiste Veistroffer expecting \"something crazy\" on his debut ride up L'Alpe d'Huez",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/fears-of-chaos-of-lalpe-dhuez-as-crowds-pack-alpine-climb-for-tour-de-france-showdown/",
-      "pubDate": "Fri, 24 Jul 2026 10:28:40 +0000"
-    },
-    {
       "source": "tv2-sport",
       "sport": "general",
-      "title": "TV 2 erfarer: Norsk spiss selges til tsjekkisk storklubb",
-      "description": "Den norske spissen Jonatan Braut Brunes (25) er i ferd med å selges for et rekordbeløp.",
-      "link": "https://www.tv2.no/a/19074451",
-      "pubDate": "Fri, 24 Jul 2026 10:11:04 GMT"
-    },
-    {
-      "source": "tv2-fotball",
-      "sport": "football",
       "title": "TV 2 erfarer: Norsk spiss selges til tsjekkisk storklubb",
       "description": "Den norske spissen Jonatan Braut Brunes (25) er i ferd med å selges for et rekordbeløp.",
       "link": "https://www.tv2.no/a/19074451",
@@ -211,14 +171,6 @@
       "pubDate": "Fri, 24 Jul 2026 10:10:30 GMT"
     },
     {
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "title": "'New opportunity, a fresh page' – Kasia Niewiadoma-Phinney chases another Tour de France Femmes victory with team that delivers debuts for Bäckstedt, Klöser, Niedermaier",
-      "description": "'It's great to have a Tour victory on my palmarès, but I definitely come in with a fresh mind and body ready to go after new experiences and, of course, the victory'",
-      "link": "https://www.cyclingnews.com/pro-cycling/womens-cycling/new-opportunity-a-fresh-page-kasia-niewiadoma-phinney-chases-another-tour-de-france-femmes-victory-with-team-that-delivers-debuts-for-backstedt-kloser-niedermaier/",
-      "pubDate": "Fri, 24 Jul 2026 09:19:03 +0000"
-    },
-    {
       "source": "nrk-sport",
       "sport": "general",
       "title": "Bekreftet: Jürgen Klopp ny Tyskland-trener",
@@ -227,24 +179,8 @@
       "pubDate": "Fri, 24 Jul 2026 09:03:50 GMT"
     },
     {
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "title": "Blir ny Tyskland-trener",
-      "description": "Jürgen Klopp (59) er «Die Mannschafts» nye landslagssjef. Samtidig tar nyansettelsen et oppgjør med pressen.",
-      "link": "https://www.aftenposten.no/sport/i/rr9PQR/bekreftet-jurgen-klopp-blir-tyskland-trener-en-stor-aere-for-meg",
-      "pubDate": "Fri, 24 Jul 2026 09:02:31 GMT"
-    },
-    {
       "source": "tv2-sport",
       "sport": "general",
-      "title": "Klopp tar over Tyskland: – En stor ære",
-      "description": "Jürgen Klopp (59) tar over det tyske landslaget etter VM-flausen.",
-      "link": "https://www.tv2.no/a/19036997",
-      "pubDate": "Fri, 24 Jul 2026 09:01:19 GMT"
-    },
-    {
-      "source": "tv2-fotball",
-      "sport": "football",
       "title": "Klopp tar over Tyskland: – En stor ære",
       "description": "Jürgen Klopp (59) tar over det tyske landslaget etter VM-flausen.",
       "link": "https://www.tv2.no/a/19036997",
@@ -257,22 +193,6 @@
       "description": "Drivers have been vocal about how the complex energy deployment needs of the 2026 generation of Formula 1 cars have impacted how they have to be driven, with the reliance on energy harvesting causing ",
       "link": "https://www.autosport.com/f1/news/you-have-to-do-it-lando-norris-admits-f1-drivers-are-paid-millions-to-adapt-to-2026-f1-cars/10841286/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk",
       "pubDate": "Fri, 24 Jul 2026 08:32:33 +0000"
-    },
-    {
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "title": "Rosenborg - Manchester United på Lerkendal",
-      "description": "",
-      "link": "https://www.aftenposten.no/sport/i/k0KwLj/rosenborg-manchester-united-paa-lerkendal",
-      "pubDate": "Fri, 24 Jul 2026 07:36:57 GMT"
-    },
-    {
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "title": "Rodri må opereres – kan miste Premier League-start",
-      "description": "Manchester City-stjernen står overfor en ny skadeutfordring.",
-      "link": "https://www.aftenposten.no/sport/i/Bx604v/treneren-bekreftet-rodri-maa-opereres",
-      "pubDate": "Fri, 24 Jul 2026 07:28:57 GMT"
     },
     {
       "source": "tv2-sport",
@@ -291,30 +211,6 @@
       "pubDate": "Fri, 24 Jul 2026 06:03:38 GMT"
     },
     {
-      "source": "tv2-fotball",
-      "sport": "football",
-      "title": "Åpner for stjernesalg til Manchester United",
-      "description": "Samtidig skal Manchester City-sjef Enzo Maresca ha sett seg ut to profiler fra gamleklubben Chelsea.",
-      "link": "https://www.tv2.no/a/19073614",
-      "pubDate": "Fri, 24 Jul 2026 06:03:38 GMT"
-    },
-    {
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "title": "'I hope I don't crash' - Paul Seixas fears huge crowds on L'Alpe d'Huez could disrupt the Tour de France",
-      "description": "French super talent sportingly hopes UAE Team Emirates-XRG are not affected by illness",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/i-hope-i-dont-crash-paul-seixas-fears-huge-crowds-on-lalpe-dhuez-could-disrupt-the-tour-de-france/",
-      "pubDate": "Fri, 24 Jul 2026 06:00:00 +0000"
-    },
-    {
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "title": "‘Even when I was a rider, I wasn’t the type to wallow in my own sorrow’ – Geraint Thomas says Netcompany Ineos moving in ‘right direction’ despite Tour de France struggles",
-      "description": "'They’re ready to go after it and that’s all you can ask for really' the team's director of racing tells Cyclingnews",
-      "link": "https://www.cyclingnews.com/pro-cycling/even-when-i-was-a-rider-i-wasnt-the-type-to-wallow-in-my-own-sorrow-geraint-thomas-says-netcompany-ineos-moving-in-right-direction-despite-tour-de-france-struggles/",
-      "pubDate": "Fri, 24 Jul 2026 05:46:01 +0000"
-    },
-    {
       "source": "guardian-football",
       "sport": "football",
       "title": "Socceroos star Cristian Volpato allegedly tests positive for cocaine during roadside test",
@@ -323,28 +219,12 @@
       "pubDate": "Fri, 24 Jul 2026 05:33:23 GMT"
     },
     {
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "title": "Sjakktalent Aksel (17) slo verdensstjerne: – Trives som underdog",
-      "description": "Aksel Bu Kvaløy sto for en sjakksensasjon da han slo russiske Jan Nepomnjasjtsjij.",
-      "link": "https://www.aftenposten.no/sport/sjakk/i/Rj4z9A/sjakktalent-aksel-17-slo-verdensstjerne-trives-som-underdog",
-      "pubDate": "Fri, 24 Jul 2026 05:32:58 GMT"
-    },
-    {
       "source": "nrk-sport",
       "sport": "general",
       "title": "Argentina-stjerne gir seg på landslaget",
       "description": "Tidligere Manchester City-spiller Nicolás Otamendi (38) gir seg på Argentinas landslag.\r\nDet bekrefter Otamendi på sin egen Instagram-konto.\r\nVM-finalen mot Spania ble Otamendis siste kamp i Argentina",
       "link": "https://www.nrk.no/sport/argentina-stjerne-gir-seg-pa-landslaget-1.17967693",
       "pubDate": "Fri, 24 Jul 2026 05:32:20 GMT"
-    },
-    {
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "title": "Castro ærlig om skademarerittet: – Det har vært et helvete",
-      "description": "Brann-stjernen åpner opp om en vanskelig periode i karrieren.",
-      "link": "https://www.aftenposten.no/sport/i/oE13pa/castro-aerlig-om-skademarerittet-det-har-vaert-et-helvete",
-      "pubDate": "Fri, 24 Jul 2026 05:13:07 GMT"
     },
     {
       "source": "nrk-sport",
@@ -371,30 +251,6 @@
       "pubDate": "Fri, 24 Jul 2026 04:00:00 GMT"
     },
     {
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "title": "EU-sanksjoner mot sjakkpresidenten – trer midlertidig til side",
-      "description": "Den russiske presidenten i Det internasjonale sjakkforbundet (Fide) trer midlertidig til side etter at han ble oppført…",
-      "link": "https://www.aftenposten.no/sport/i/8pXJew/eu-sanksjoner-mot-sjakkpresidenten-trer-midlertidig-til-side",
-      "pubDate": "Fri, 24 Jul 2026 03:37:05 GMT"
-    },
-    {
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "title": "Sick soldiers and mixed messages – What's really going on at UAE Team Emirates-XRG and how will it change the last days of the Tour de France?",
-      "description": "The collective might and will of Tadej Pogačar's team has kept the peloton in check until now but with illness in the ranks that could be about to change",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/sick-soldiers-and-mixed-messages-whats-really-going-on-at-uae-team-emirates-xrg-and-how-will-it-change-the-last-days-of-the-tour-de-france/",
-      "pubDate": "Fri, 24 Jul 2026 00:53:57 +0000"
-    },
-    {
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "title": "Svela om Gjert-bruddet: – Kostet mer enn det ga",
-      "description": "Per Svela sier at det kom til et punkt hvor han mener det var naturlig å bryte samarbeidet med Gjert Ingebrigtsen.",
-      "link": "https://www.aftenposten.no/sport/i/d4GwQJ/svela-om-gjert-bruddet-kostet-mer-enn-det-ga",
-      "pubDate": "Thu, 23 Jul 2026 21:04:53 GMT"
-    },
-    {
       "source": "tv2-sport",
       "sport": "general",
       "title": "Røper hvorfor hun la opp som 29-åring: – Har aldri fortalt det før",
@@ -403,44 +259,84 @@
       "pubDate": "Thu, 23 Jul 2026 21:04:25 GMT"
     },
     {
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "title": "'Fight like a lion and fly like an eagle' - How Carlos Sastre's life changed when he won the Tour de France on L'Alpe d'Huez",
-      "description": "2008 Tour winner looks back at how it felt to triumph and take the yellow jersey on cycling's most emblematic mountain",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/fight-like-a-lion-and-fly-like-an-eagle-how-carlos-sastres-life-changed-when-he-won-the-tour-de-france-on-alpe-dhuez/",
-      "pubDate": "Thu, 23 Jul 2026 20:58:09 +0000"
-    },
-    {
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "title": "'Big shock to the system' - Former WorldTour rider Veronica Ewers resumes slow return to peloton with 'experiment' at French ProTeam's Tour de France Femmes training camp",
-      "description": "'Time off for body and brain' in past seven months confirms US rider discovers capacity for racing again but most likely in 2027",
-      "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/big-shock-to-the-system-former-worldtour-rider-veronica-ewers-resumes-slow-return-to-peloton-with-experiment-at-french-proteams-tour-de-france-femmes-training-camp/",
-      "pubDate": "Thu, 23 Jul 2026 20:55:36 +0000"
-    },
-    {
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "title": "What to know about Tour de France nighttime testing – The rules, the results timeline, the ITA, reactions and more explained",
-      "description": "Cyclingnews outlines pro cycling's anti-doping system and what the recent nighttime test of the Tour de France means for the sport",
-      "link": "https://www.cyclingnews.com/pro-cycling/doping/what-to-know-about-tour-de-france-night-time-testing-the-rules-the-results-timeline-the-ita-reactions-and-more-explained/",
-      "pubDate": "Thu, 23 Jul 2026 20:28:33 +0000"
-    },
-    {
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "title": "Jæger imponerte igjen – satte NM-rekord",
-      "description": "Supertalentet Henriette Jæger (23) løp 400 meter på 50,41 i NM i Trondheim torsdag.",
-      "link": "https://www.aftenposten.no/sport/i/JOpQ38/jaeger-imponerte-igjen-satte-nm-rekord",
-      "pubDate": "Thu, 23 Jul 2026 20:01:06 GMT"
-    },
-    {
       "source": "nrk-sport",
       "sport": "general",
       "title": "Jæger: Tok NM-gull på 400 meter",
       "description": "Henriette Jæger innfridde forventningane og tok gullet på 400-meteren under NM i Friidrett i Trondheim.\r\n23-åringen, som nyleg sette noregsrekord med 49,15 under Diamond League i London, krysset målli",
       "link": "https://www.nrk.no/sport/jaeger_-tok-nm-gull-pa-400-meter-1.17967566",
       "pubDate": "Thu, 23 Jul 2026 19:59:19 GMT"
+    },
+    {
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "Per Svela hinter om karriereslutt: - Det var fort siste baneløp",
+      "description": "Per Svela klarte ikke å tvinge seg inn i medaljekampen på 5000 meteren i NM. Etter løpet var han åpen om at friidrettskarrieren går mot slutten:\r\n– Det er ikke noe som er skrevet i stein, men jeg ser ",
+      "link": "https://www.nrk.no/sport/per-svela-hinter-om-karriereslutt_---det-var-fort-siste-banelop-1.17967549",
+      "pubDate": "Thu, 23 Jul 2026 19:25:54 GMT"
+    },
+    {
+      "source": "guardian-football",
+      "sport": "football",
+      "title": "From Popp to Diani: 10 women’s transfers you may have missed during the men’s World Cup",
+      "description": "Sam Kerr’s and Alexia Putellas’s moves were hard to miss but these transfers may have escaped your attentionThere were a host of big women’s football transfers which were hard to miss across June and ",
+      "link": "https://www.theguardian.com/football/2026/jul/23/from-popp-to-diani-10-womens-transfers-you-may-have-missed-during-the-mens-world-cup",
+      "pubDate": "Thu, 23 Jul 2026 19:00:52 GMT"
+    },
+    {
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "Brann-kollaps i Romania: Mistet tomålsledelse på to minutter",
+      "description": "Brann hadde full kontroll og ledet 2–0 borte mot Universitatea Cluj. Så raknet det fullstendig på tampen.\r\nFørste omgang av oppgjøret skulle vise seg å være en sjansefattig affære, men fem minutter fø",
+      "link": "https://www.nrk.no/sport/brann-kollaps-i-romania_-mistet-tomalsledelse-pa-to-minutter-1.17967539",
+      "pubDate": "Thu, 23 Jul 2026 18:51:52 GMT"
+    },
+    {
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "Filip Ingebrigtsen tok NM-sølv på 5000 meter",
+      "description": "Filip Ingebrigtsen leverte eit sterkt løp på 5000-meteren under NM i Friidrett i Trondheim og sprang inn til ein 2.-plass.\r\nSandnes-løparen har hatt ein svingande sesong med både avbrutte løp og ny år",
+      "link": "https://www.nrk.no/sport/filip-ingebrigtsen-tok-nm-solv-pa-5000-meter---1.17967533",
+      "pubDate": "Thu, 23 Jul 2026 18:50:59 GMT"
+    },
+    {
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "Bommet på straffe – tapte i Europareturen",
+      "description": "– Den er blytung for Tromsø!\r\nDet kommenterer VGTVs Asbjørn Myhre i det den tsjekkiske klubben Hradec Kralove går opp i 0–1 på Romssa Arena.\r\nFor «gutan» hadde kontrollert omtrent alt på eget kunstgre",
+      "link": "https://www.nrk.no/sport/bommet-pa-straffe-_-tapte-i-europareturen-1.17967556",
+      "pubDate": "Thu, 23 Jul 2026 18:50:40 GMT"
+    },
+    {
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "Noregs raskaste har talt: Fremstad-Waldron og Rønningen tok NM-gull",
+      "description": "Under opningsdagen av NM i Friidrett i Trondheim var det knytt stor spenning til sprintduellen og kven som eigentleg er Noreg sin raskaste mann.\r\nFeltet låg jamt ute frå startblokkene ein liten stund,",
+      "link": "https://www.nrk.no/sport/noregs-raskaste-har-talt_-fremstad-waldron-og-ronningen-tok-nm-gull-1.17967526",
+      "pubDate": "Thu, 23 Jul 2026 18:16:19 GMT"
+    },
+    {
+      "source": "guardian-football",
+      "sport": "football",
+      "title": "Chelsea paid Aston Villa £117m for Morgan Rogers. Is he the right fit?",
+      "description": "The England attacker thrives when he can gallop into space but Xabi Alonso’s best team built attacks slowlyBy Opta AnalystIt quickly became apparent this summer that Aston Villa would not be holding o",
+      "link": "https://www.theguardian.com/football/2026/jul/23/chelsea-aston-villa-117m-morgan-rogers-england-xabi-alonso",
+      "pubDate": "Thu, 23 Jul 2026 18:00:51 GMT"
+    },
+    {
+      "source": "nrk-sport",
+      "sport": "general",
+      "title": "Embla (19) mista kontrollen på kroppen: – Heile livet blei sett på pause",
+      "description": "Etter eit marerittår med utmatting og sjukdom, kjentest vegen tilbake lang for Embla Matilde Njerve. No står friidrettstalentet endeleg på tilløpet igjen – med VM-billett i lomma.",
+      "link": "https://www.nrk.no/sport/embla-matilde-njerve-_19_-mista-kontrollen-pa-kroppen_-_-heile-livet-blei-sett-pa-pause-1.17966861",
+      "pubDate": "Thu, 23 Jul 2026 17:04:56 GMT"
+    },
+    {
+      "source": "autosport-f1",
+      "sport": "formula1",
+      "title": "\"You're not allowed to make a difference\" – Verstappen says the fastest F1 drivers are penalised",
+      "description": "Following the race weekend at Spa-Francorchamps, and particularly Oscar Piastri's strong comments, one topic dominates media day in Budapest: energy management, more specifically the self-learning asp",
+      "link": "https://www.autosport.com/f1/news/max-verstappen-at-first-they-said-i-was-complaining-now-more-people-see-what-f1-2026-is-like/10841206/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk",
+      "pubDate": "Thu, 23 Jul 2026 17:03:14 +0000"
     }
   ]
 }

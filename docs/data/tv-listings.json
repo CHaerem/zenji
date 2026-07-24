@@ -1,22 +1,9 @@
 {
-  "fetchedAt": "2026-07-24T14:53:30.080Z",
+  "fetchedAt": "2026-07-24T16:32:13.593Z",
   "source": "tvkampen.com",
   "timezone": "Europe/Oslo",
   "note": "Times are Oslo-local HH:MM without dates — match entries by team names.",
   "listings": [
-    {
-      "homeTeam": "Bournemouth",
-      "awayTeam": "FC St Pauli",
-      "time": "16:00",
-      "league": "Treningskamp",
-      "broadcasters": [
-        "VG TV",
-        "Viaplay",
-        "Eurosport Norge",
-        "MAX"
-      ],
-      "url": "https://www.tvkampen.com/kamp/bournemouth-fc-st-pauli-1921167"
-    },
     {
       "homeTeam": "Rosenborg",
       "awayTeam": "Manchester United",

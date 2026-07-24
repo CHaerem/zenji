@@ -1,17 +1,65 @@
 {
   "items": [
     {
-      "id": "ccc30d5c70eaf7f43a9c74568ddaa7b99cd1eea9",
-      "title": "Lorena Wiebes overcomes messy lead-out to sprint to victory on opening stage of Tour de Pologne Women",
-      "link": "https://www.cyclingnews.com/pro-cycling/womens-cycling/lorena-wiebes-overcomes-messy-lead-out-to-sprint-to-victory-on-opening-stage-of-tour-de-pologne-women/",
-      "source": "cyclingnews",
-      "sport": "cycling",
+      "id": "a0784c3fa89b2ae2a8a0555df8a9460b7e28adfc",
+      "title": "Kronikk: Trygg trening",
+      "link": "https://www.nrk.no/artikkel/trygg-trening-1523475",
+      "source": "nrk-sport",
+      "sport": "general",
+      "entityIds": [],
+      "publishedAt": "2026-07-24T16:00:53.000Z"
+    },
+    {
+      "id": "18df8295c7ae9fb85e14c65b5a1569ac94948ea0",
+      "title": "Basketballegenden LeBron James klar for ny klubb",
+      "link": "https://www.nrk.no/sport/basketballegenden-lebron-james-klar-for-ny-klubb-1.17968460",
+      "source": "nrk-sport",
+      "sport": "general",
+      "entityIds": [],
+      "publishedAt": "2026-07-24T15:43:58.000Z"
+    },
+    {
+      "id": "e0ee110fb97718187a3c9ebb14ee71050a0f514f",
+      "title": "Jakter nytt EM: – Trodde ikke jeg skulle stå her igjen",
+      "link": "https://www.tv2.no/a/19073841",
+      "source": "tv2-sport",
+      "sport": "general",
+      "entityIds": [],
+      "publishedAt": "2026-07-24T15:37:31.000Z"
+    },
+    {
+      "id": "9664b8a55c890879a0005d930cfa3bd9a659f7bc",
+      "title": "Ikke vist på TV: – Ser ikke bra ut",
+      "link": "https://www.tv2.no/a/19075099",
+      "source": "tv2-sport",
+      "sport": "general",
       "entityIds": [
-        "tour-de-pologne",
-        "barbara-guarischi",
-        "lorena-wiebes"
+        "tour-de-france",
+        "france"
       ],
-      "publishedAt": "2026-07-24T14:35:00.000Z"
+      "publishedAt": "2026-07-24T15:32:12.000Z"
+    },
+    {
+      "id": "2c388d274e7c909e7498dcc43b94b9972f0b92a7",
+      "title": "IOC behandler ikke klage på Fifa-presidenten: – Utenfor jurisdiksjonen",
+      "link": "https://www.nrk.no/sport/ioc-behandler-ikke-klage-pa-fifa-presidenten_-_-utenfor-jurisdiksjonen-1.17968403",
+      "source": "nrk-sport",
+      "sport": "general",
+      "entityIds": [],
+      "publishedAt": "2026-07-24T15:13:02.000Z"
+    },
+    {
+      "id": "ab2900d579a350b9d5d03cf183f868950ad8bcd5",
+      "title": "Uno-X-proff skal kjempe om seieren i Offroad Finnmark",
+      "link": "https://www.nrk.no/tromsogfinnmark/uno-x-proff-skal-kjempe-om-seieren-i-offroad-finnmark-1.17968381",
+      "source": "nrk-sport",
+      "sport": "general",
+      "entityIds": [
+        "uno-x-mobility",
+        "giro-d-italia",
+        "adne-holter"
+      ],
+      "publishedAt": "2026-07-24T15:10:41.000Z"
     },
     {
       "id": "d6323a2148ac3e61774f0e3a2964c291be8b32e1",
@@ -44,38 +92,15 @@
     },
     {
       "id": "2a23521eba88051be7ba3ce73e0e6de69fa89eb3",
-      "title": "Manchester United and the quest to make mythical midfield a reality",
+      "title": "Football Daily | Manchester United and the quest to make mythical midfield a reality",
       "link": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter",
       "source": "guardian-football",
       "sport": "football",
       "entityIds": [
-        "premier-league",
         "united",
         "manchester-united"
       ],
       "publishedAt": "2026-07-24T14:02:33.000Z"
-    },
-    {
-      "id": "f51d5aa76bbe2be1c485c4266388a8554e90b068",
-      "title": "Dramaet fortsetter: Finalen i Afrikamesterskapet skal avgjøres i CAS",
-      "link": "https://www.aftenposten.no/sport/i/6q5qgQ/dramaet-fortsetter-finalen-i-afrikamesterskapet-skal-avgjoeres-i-cas",
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "entityIds": [
-        "senegal"
-      ],
-      "publishedAt": "2026-07-24T13:33:30.000Z"
-    },
-    {
-      "id": "bf21857e64ca6f2ce6b163ccc8ecac346d6cfb5a",
-      "title": "Bruddet med Gjert Ingebrigtsen: – Det ble et ork",
-      "link": "https://www.aftenposten.no/sport/i/L494B9/narve-gilje-nordaas-etter-bruddet-med-ingebrigtsen-det-ble-et-ork",
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "entityIds": [
-        "narve-gilje-nordas"
-      ],
-      "publishedAt": "2026-07-24T13:21:19.000Z"
     },
     {
       "id": "fb0d23166ef6fee85a669dd9e6ebfd156445ac88",
@@ -87,20 +112,6 @@
         "narve-gilje-nordas"
       ],
       "publishedAt": "2026-07-24T13:00:04.000Z"
-    },
-    {
-      "id": "dc181cdec22113750c8f88da4959405101873b5c",
-      "title": "'Tadej is OK' – UAE Team Emirates play down doubts about Tadej Pogačar's health after illness strikes Tour de France team",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/tadej-is-ok-uae-team-emirates-play-down-doubts-about-tadej-pogacars-health-after-illness-strikes-tour-de-france-team/",
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "entityIds": [
-        "tour-de-france",
-        "tadej-pogacar",
-        "uae-team-emirates-xrg",
-        "france"
-      ],
-      "publishedAt": "2026-07-24T12:47:00.000Z"
     },
     {
       "id": "3579fa70b6c9dd38c34303132303be8f9f36491b",
@@ -141,39 +152,6 @@
       "publishedAt": "2026-07-24T12:08:39.000Z"
     },
     {
-      "id": "b3cb9719f16c848b69839acc48f6a3dcd97a59de",
-      "title": "FIDE President Dvorkovich added to EU Sanctions List",
-      "link": "https://en.chessbase.com/post/fide-president-dvorkovich-added-to-eu-sanctions-list",
-      "source": "chessbase",
-      "sport": "chess",
-      "entityIds": [],
-      "publishedAt": "2026-07-24T11:58:15.000Z"
-    },
-    {
-      "id": "b07e134b3f50acc571e2a6b9362a644f7f6f37af",
-      "title": "Alexandersson om RBK-ansettelsen: – Vanvittig",
-      "link": "https://www.aftenposten.no/sport/i/7pjpBv/alexandersson-om-rbk-ansettelsen-vanvittig",
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "entityIds": [
-        "rosenborg"
-      ],
-      "publishedAt": "2026-07-24T11:56:14.000Z"
-    },
-    {
-      "id": "484ba26de3db9a1d811b3c9a3cbea824c6efc247",
-      "title": "Tour de France stage 19 LIVE: Martinez, Carapaz, Paret-Peintre and Yates among those in large break on Alpe d'Huez day",
-      "link": "https://www.cyclingnews.com/pro-cycling/live/tour-de-france-stage-19-live-the-tour-heads-to-the-the-iconic-alpe-dhuez/",
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "entityIds": [
-        "tour-de-france",
-        "explosive",
-        "france"
-      ],
-      "publishedAt": "2026-07-24T11:37:56.000Z"
-    },
-    {
       "id": "c4fc4c1fe0d739c21ee2a4ad056902d24bb2f866",
       "title": "Malaysia weighs up F1 2026 round as rescheduled Bahrain GP plan fades",
       "link": "https://www.autosport.com/f1/news/malaysia-weighs-up-f1-2026-round-as-rescheduled-bahrain-gp-plan-fades/10841345/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk",
@@ -183,19 +161,6 @@
         "f1-world-championship"
       ],
       "publishedAt": "2026-07-24T11:34:16.000Z"
-    },
-    {
-      "id": "948f17f191668959b51141739266b4d61f9c1385",
-      "title": "'The goal is to be at the front and fight for this jersey' – Valentin Paret-Peintre continues Tour de France polka dot battle against Pogačar and Carapaz on Alpe d'Huez",
-      "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/the-goal-is-to-be-at-the-front-and-fight-for-this-jersey-valentin-paret-peintre-continues-tour-de-france-polka-dot-battle-against-pogacar-and-carapaz-on-alpe-dhuez/",
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "entityIds": [
-        "tour-de-france",
-        "valentin-paret-peintre",
-        "france"
-      ],
-      "publishedAt": "2026-07-24T11:08:12.000Z"
     },
     {
       "id": "049464c7d4ac04460e49972425a7f9eea41894c1",
@@ -244,20 +209,6 @@
       "publishedAt": "2026-07-24T10:56:36.000Z"
     },
     {
-      "id": "50b383906f452cf87054f71b61317741fd7d1c42",
-      "title": "Fears of chaos on L'Alpe d'Huez as crowds pack Alpine climb for Tour de France showdown",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/fears-of-chaos-of-lalpe-dhuez-as-crowds-pack-alpine-climb-for-tour-de-france-showdown/",
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "entityIds": [
-        "tour-de-france",
-        "baptiste-veistroffer",
-        "alpine",
-        "france"
-      ],
-      "publishedAt": "2026-07-24T10:28:40.000Z"
-    },
-    {
       "id": "75608db8e7ef627281f3917c655b49cc84e9cfbd",
       "title": "TV 2 erfarer: Norsk spiss selges til tsjekkisk storklubb",
       "link": "https://www.tv2.no/a/19074451",
@@ -279,19 +230,6 @@
       "publishedAt": "2026-07-24T10:10:30.000Z"
     },
     {
-      "id": "b8cc6bad5198f0d033f924961023ccc68cd5b8bf",
-      "title": "'New opportunity, a fresh page' – Kasia Niewiadoma-Phinney chases another Tour de France Femmes victory with team that delivers debuts for Bäckstedt, Klöser, Niedermaier",
-      "link": "https://www.cyclingnews.com/pro-cycling/womens-cycling/new-opportunity-a-fresh-page-kasia-niewiadoma-phinney-chases-another-tour-de-france-femmes-victory-with-team-that-delivers-debuts-for-backstedt-kloser-niedermaier/",
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "entityIds": [
-        "tour-de-france",
-        "tour-de-france-femmes",
-        "france"
-      ],
-      "publishedAt": "2026-07-24T09:19:03.000Z"
-    },
-    {
       "id": "3a067321839baced2d2133041995960f188b0e4f",
       "title": "Bekreftet: Jürgen Klopp ny Tyskland-trener",
       "link": "https://www.nrk.no/sport/bekreftet_-jurgen-klopp-ny-tyskland-trener-1.17967943",
@@ -301,15 +239,6 @@
         "paraguay"
       ],
       "publishedAt": "2026-07-24T09:03:50.000Z"
-    },
-    {
-      "id": "c7742696a4e07e3afb99d25d17db3fa77b6bf17c",
-      "title": "Blir ny Tyskland-trener",
-      "link": "https://www.aftenposten.no/sport/i/rr9PQR/bekreftet-jurgen-klopp-blir-tyskland-trener-en-stor-aere-for-meg",
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "entityIds": [],
-      "publishedAt": "2026-07-24T09:02:31.000Z"
     },
     {
       "id": "d8ee5dc54367b37b4882b8b7cfd26cf144434b5b",
@@ -330,31 +259,6 @@
         "f1-world-championship"
       ],
       "publishedAt": "2026-07-24T08:32:33.000Z"
-    },
-    {
-      "id": "3a737709ff0c28612015cf5cfa76ef24ec05fa89",
-      "title": "Rosenborg - Manchester United på Lerkendal",
-      "link": "https://www.aftenposten.no/sport/i/k0KwLj/rosenborg-manchester-united-paa-lerkendal",
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "entityIds": [
-        "rosenborg",
-        "united",
-        "manchester-united"
-      ],
-      "publishedAt": "2026-07-24T07:36:57.000Z"
-    },
-    {
-      "id": "432938a37954ea47b5b349b6b8d49c1c88105ab3",
-      "title": "Rodri må opereres – kan miste Premier League-start",
-      "link": "https://www.aftenposten.no/sport/i/Bx604v/treneren-bekreftet-rodri-maa-opereres",
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "entityIds": [
-        "premier-league",
-        "manchester-city"
-      ],
-      "publishedAt": "2026-07-24T07:28:57.000Z"
     },
     {
       "id": "f9cdd8a4426de9d0cb4d3adad3b0e72934a12066",
@@ -384,34 +288,6 @@
       "publishedAt": "2026-07-24T06:03:38.000Z"
     },
     {
-      "id": "0f8d1a594ace8a2563bc2a79824bb47fe8c5a607",
-      "title": "'I hope I don't crash' - Paul Seixas fears huge crowds on L'Alpe d'Huez could disrupt the Tour de France",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/i-hope-i-dont-crash-paul-seixas-fears-huge-crowds-on-lalpe-dhuez-could-disrupt-the-tour-de-france/",
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "entityIds": [
-        "tour-de-france",
-        "paul-seixas",
-        "uae-team-emirates-xrg",
-        "france"
-      ],
-      "publishedAt": "2026-07-24T06:00:00.000Z"
-    },
-    {
-      "id": "d53d31b6ec667606b1b1b647ddb21886f5e2cfbc",
-      "title": "‘Even when I was a rider, I wasn’t the type to wallow in my own sorrow’ – Geraint Thomas says Netcompany Ineos moving in ‘right direction’ despite Tour de France struggles",
-      "link": "https://www.cyclingnews.com/pro-cycling/even-when-i-was-a-rider-i-wasnt-the-type-to-wallow-in-my-own-sorrow-geraint-thomas-says-netcompany-ineos-moving-in-right-direction-despite-tour-de-france-struggles/",
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "entityIds": [
-        "tour-de-france",
-        "netcompany-ineos",
-        "france",
-        "racing-santander"
-      ],
-      "publishedAt": "2026-07-24T05:46:01.000Z"
-    },
-    {
       "id": "7447ffd91d57eda2c7fbdaa267371c22934edc72",
       "title": "Socceroos star Cristian Volpato allegedly tests positive for cocaine during roadside test",
       "link": "https://www.theguardian.com/football/2026/jul/24/cristian-volpato-socceroos-allegedly-tests-positive-cocaine-speeding",
@@ -421,15 +297,6 @@
         "australia"
       ],
       "publishedAt": "2026-07-24T05:33:23.000Z"
-    },
-    {
-      "id": "58551484f7fd2d15b42282cf3ac7058df028a4ca",
-      "title": "Sjakktalent Aksel (17) slo verdensstjerne: – Trives som underdog",
-      "link": "https://www.aftenposten.no/sport/sjakk/i/Rj4z9A/sjakktalent-aksel-17-slo-verdensstjerne-trives-som-underdog",
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "entityIds": [],
-      "publishedAt": "2026-07-24T05:32:58.000Z"
     },
     {
       "id": "b57f1bbe2d9f8a67d0ceca66bd25c859db9acae9",
@@ -442,17 +309,6 @@
         "argentina"
       ],
       "publishedAt": "2026-07-24T05:32:20.000Z"
-    },
-    {
-      "id": "861000f4df02d033df2cd40a646c8d73a1f2ba3e",
-      "title": "Castro ærlig om skademarerittet: – Det har vært et helvete",
-      "link": "https://www.aftenposten.no/sport/i/oE13pa/castro-aerlig-om-skademarerittet-det-har-vaert-et-helvete",
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "entityIds": [
-        "brann"
-      ],
-      "publishedAt": "2026-07-24T05:13:07.000Z"
     },
     {
       "id": "8af8bf3887c6bfd219c32a5eed6098ea8233cce2",
@@ -482,40 +338,6 @@
       "publishedAt": "2026-07-24T04:00:00.000Z"
     },
     {
-      "id": "cbdb0f43c2874fb54375de1a3d39759df63d6fcc",
-      "title": "EU-sanksjoner mot sjakkpresidenten – trer midlertidig til side",
-      "link": "https://www.aftenposten.no/sport/i/8pXJew/eu-sanksjoner-mot-sjakkpresidenten-trer-midlertidig-til-side",
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "entityIds": [],
-      "publishedAt": "2026-07-24T03:37:05.000Z"
-    },
-    {
-      "id": "295b57131c6d036f4f5a3cf33faf70acd67959b1",
-      "title": "Sick soldiers and mixed messages – What's really going on at UAE Team Emirates-XRG and how will it change the last days of the Tour de France?",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/sick-soldiers-and-mixed-messages-whats-really-going-on-at-uae-team-emirates-xrg-and-how-will-it-change-the-last-days-of-the-tour-de-france/",
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "entityIds": [
-        "tour-de-france",
-        "tadej-pogacar",
-        "uae-team-emirates-xrg",
-        "france"
-      ],
-      "publishedAt": "2026-07-24T00:53:57.000Z"
-    },
-    {
-      "id": "a6df958dc11cd8bb9d8ef191a0c0d4428bf45af5",
-      "title": "Svela om Gjert-bruddet: – Kostet mer enn det ga",
-      "link": "https://www.aftenposten.no/sport/i/d4GwQJ/svela-om-gjert-bruddet-kostet-mer-enn-det-ga",
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "entityIds": [
-        "per-svela"
-      ],
-      "publishedAt": "2026-07-23T21:04:53.000Z"
-    },
-    {
       "id": "9a6f77a527af92a381d57f5e3db383e3b5879e2f",
       "title": "Røper hvorfor hun la opp som 29-åring: – Har aldri fortalt det før",
       "link": "https://www.tv2.no/a/19073524",
@@ -523,58 +345,6 @@
       "sport": "general",
       "entityIds": [],
       "publishedAt": "2026-07-23T21:04:25.000Z"
-    },
-    {
-      "id": "a227fbf21352c0887b46bf60b8881eefc1157c79",
-      "title": "'Fight like a lion and fly like an eagle' - How Carlos Sastre's life changed when he won the Tour de France on L'Alpe d'Huez",
-      "link": "https://www.cyclingnews.com/pro-cycling/racing/fight-like-a-lion-and-fly-like-an-eagle-how-carlos-sastres-life-changed-when-he-won-the-tour-de-france-on-alpe-dhuez/",
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "entityIds": [
-        "tour-de-france",
-        "triumph",
-        "france"
-      ],
-      "publishedAt": "2026-07-23T20:58:09.000Z"
-    },
-    {
-      "id": "14c91a2992d7998f0d40ba067a1cf17421f92be6",
-      "title": "'Big shock to the system' - Former WorldTour rider Veronica Ewers resumes slow return to peloton with 'experiment' at French ProTeam's Tour de France Femmes training camp",
-      "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/big-shock-to-the-system-former-worldtour-rider-veronica-ewers-resumes-slow-return-to-peloton-with-experiment-at-french-proteams-tour-de-france-femmes-training-camp/",
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "entityIds": [
-        "tour-de-france",
-        "tour-de-france-femmes",
-        "again",
-        "big",
-        "france",
-        "racing-santander"
-      ],
-      "publishedAt": "2026-07-23T20:55:36.000Z"
-    },
-    {
-      "id": "b283b79aae6194a87a07509182ea6f9f7f5a5959",
-      "title": "What to know about Tour de France nighttime testing – The rules, the results timeline, the ITA, reactions and more explained",
-      "link": "https://www.cyclingnews.com/pro-cycling/doping/what-to-know-about-tour-de-france-night-time-testing-the-rules-the-results-timeline-the-ita-reactions-and-more-explained/",
-      "source": "cyclingnews",
-      "sport": "cycling",
-      "entityIds": [
-        "tour-de-france",
-        "france"
-      ],
-      "publishedAt": "2026-07-23T20:28:33.000Z"
-    },
-    {
-      "id": "27a84a1816a9a12a985ccfff43853b04dd0a9521",
-      "title": "Jæger imponerte igjen – satte NM-rekord",
-      "link": "https://www.aftenposten.no/sport/i/JOpQ38/jaeger-imponerte-igjen-satte-nm-rekord",
-      "source": "aftenposten-sport",
-      "sport": "general",
-      "entityIds": [
-        "henriette-jaeger"
-      ],
-      "publishedAt": "2026-07-23T20:01:06.000Z"
     },
     {
       "id": "787c7cc04f8a1432b5c96e158a369303014c47f2",
@@ -587,6 +357,104 @@
         "henriette-jaeger"
       ],
       "publishedAt": "2026-07-23T19:59:19.000Z"
+    },
+    {
+      "id": "078f8f94d0b19ba3df1f08eacbb4ad9071f010e1",
+      "title": "Per Svela hinter om karriereslutt: - Det var fort siste baneløp",
+      "link": "https://www.nrk.no/sport/per-svela-hinter-om-karriereslutt_---det-var-fort-siste-banelop-1.17967549",
+      "source": "nrk-sport",
+      "sport": "general",
+      "entityIds": [
+        "per-svela"
+      ],
+      "publishedAt": "2026-07-23T19:25:54.000Z"
+    },
+    {
+      "id": "a7208fd4d37c8d62cbedb429d660bff3f4c597ff",
+      "title": "From Popp to Diani: 10 women’s transfers you may have missed during the men’s World Cup",
+      "link": "https://www.theguardian.com/football/2026/jul/23/from-popp-to-diani-10-womens-transfers-you-may-have-missed-during-the-mens-world-cup",
+      "source": "guardian-football",
+      "sport": "football",
+      "type": "overgang",
+      "entityIds": [
+        "big"
+      ],
+      "publishedAt": "2026-07-23T19:00:52.000Z"
+    },
+    {
+      "id": "e6ac63c45194aa72570134b4cc1d1cf1f9a8467c",
+      "title": "Brann-kollaps i Romania: Mistet tomålsledelse på to minutter",
+      "link": "https://www.nrk.no/sport/brann-kollaps-i-romania_-mistet-tomalsledelse-pa-to-minutter-1.17967539",
+      "source": "nrk-sport",
+      "sport": "general",
+      "entityIds": [
+        "brann"
+      ],
+      "publishedAt": "2026-07-23T18:51:52.000Z"
+    },
+    {
+      "id": "c2c6e41b9473ec539ff995a5230e5e67aa7cb4a4",
+      "title": "Filip Ingebrigtsen tok NM-sølv på 5000 meter",
+      "link": "https://www.nrk.no/sport/filip-ingebrigtsen-tok-nm-solv-pa-5000-meter---1.17967533",
+      "source": "nrk-sport",
+      "sport": "general",
+      "entityIds": [
+        "filip-ingebrigtsen"
+      ],
+      "publishedAt": "2026-07-23T18:50:59.000Z"
+    },
+    {
+      "id": "7c0b49ca7a318fe967a1a753917bc8f539c4e542",
+      "title": "Bommet på straffe – tapte i Europareturen",
+      "link": "https://www.nrk.no/sport/bommet-pa-straffe-_-tapte-i-europareturen-1.17967556",
+      "source": "nrk-sport",
+      "sport": "general",
+      "entityIds": [],
+      "publishedAt": "2026-07-23T18:50:40.000Z"
+    },
+    {
+      "id": "db96b666c2debaee5ed8ffcc784ea7c72bac9c8c",
+      "title": "Noregs raskaste har talt: Fremstad-Waldron og Rønningen tok NM-gull",
+      "link": "https://www.nrk.no/sport/noregs-raskaste-har-talt_-fremstad-waldron-og-ronningen-tok-nm-gull-1.17967526",
+      "source": "nrk-sport",
+      "sport": "general",
+      "entityIds": [],
+      "publishedAt": "2026-07-23T18:16:19.000Z"
+    },
+    {
+      "id": "bacd788fec7ca5efac76222b2ddbe5ae4fedfd2c",
+      "title": "Chelsea paid Aston Villa £117m for Morgan Rogers. Is he the right fit?",
+      "link": "https://www.theguardian.com/football/2026/jul/23/chelsea-aston-villa-117m-morgan-rogers-england-xabi-alonso",
+      "source": "guardian-football",
+      "sport": "football",
+      "entityIds": [
+        "aston-villa",
+        "chelsea",
+        "england"
+      ],
+      "publishedAt": "2026-07-23T18:00:51.000Z"
+    },
+    {
+      "id": "3bca3edfb83715c1b7aec106aabc3472c07dc27c",
+      "title": "Embla (19) mista kontrollen på kroppen: – Heile livet blei sett på pause",
+      "link": "https://www.nrk.no/sport/embla-matilde-njerve-_19_-mista-kontrollen-pa-kroppen_-_-heile-livet-blei-sett-pa-pause-1.17966861",
+      "source": "nrk-sport",
+      "sport": "general",
+      "entityIds": [
+        "embla-matilde-njerve"
+      ],
+      "publishedAt": "2026-07-23T17:04:56.000Z"
+    },
+    {
+      "id": "de2905d452df7f2b6214b598b64bc120d845d911",
+      "title": "\"You're not allowed to make a difference\" – Verstappen says the fastest F1 drivers are penalised",
+      "link": "https://www.autosport.com/f1/news/max-verstappen-at-first-they-said-i-was-complaining-now-more-people-see-what-f1-2026-is-like/10841206/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk",
+      "source": "autosport-f1",
+      "sport": "formula1",
+      "entityIds": [
+        "oscar-piastri"
+      ],
+      "publishedAt": "2026-07-23T17:03:14.000Z"
     }
   ]
 }

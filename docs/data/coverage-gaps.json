@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T14:53:40.568Z",
-  "gapCount": 8,
+  "generatedAt": "2026-07-24T16:32:28.956Z",
+  "gapCount": 9,
   "anomalyCount": 0,
   "gaps": [
     {
@@ -8,22 +8,11 @@
       "entity": "Ingebrigtsen",
       "type": "missing",
       "imminent": false,
-      "headline": "Bruddet med Gjert Ingebrigtsen: – Det ble et ork",
-      "link": "https://www.aftenposten.no/sport/i/L494B9/narve-gilje-nordaas-etter-bruddet-med-ingebrigtsen-det-ble-et-ork",
-      "feed": "aftenposten-sport",
-      "matchCount": 4,
-      "detectedAt": "2026-07-24T14:53:39.512Z"
-    },
-    {
-      "kind": "entity",
-      "entity": "RBK",
-      "type": "missing",
-      "imminent": true,
-      "headline": "Alexandersson om RBK-ansettelsen: – Vanvittig",
-      "link": "https://www.aftenposten.no/sport/i/7pjpBv/alexandersson-om-rbk-ansettelsen-vanvittig",
-      "feed": "aftenposten-sport",
-      "matchCount": 1,
-      "detectedAt": "2026-07-24T14:53:39.512Z"
+      "headline": "Kjenner på fridom etter Gjert Ingebrigtsen-brotet: – Kvart meisterskap blei det støy",
+      "link": "https://www.nrk.no/sport/narve-gilje-nordas-om-gjert-ingebrigtsen-brotet_-_-det-kostar-meir-enn-det-gir-1.17967957",
+      "feed": "nrk-sport",
+      "matchCount": 3,
+      "detectedAt": "2026-07-24T16:32:25.877Z"
     },
     {
       "kind": "entity",
@@ -33,8 +22,8 @@
       "headline": "Maresca says managing Manchester City ‘a privilege’ but admits challenge of following Guardiola",
       "link": "https://www.theguardian.com/football/2026/jul/24/enzo-maresca-unveiled-new-manchester-city",
       "feed": "guardian-football",
-      "matchCount": 6,
-      "detectedAt": "2026-07-24T14:53:39.512Z"
+      "matchCount": 4,
+      "detectedAt": "2026-07-24T16:32:25.877Z"
     },
     {
       "kind": "entity",
@@ -45,18 +34,7 @@
       "link": "https://www.theguardian.com/football/2026/jul/24/andoni-iraola-backs-backroom-staff-to-help-cure-liverpool-set-piece-ills",
       "feed": "guardian-football",
       "matchCount": 1,
-      "detectedAt": "2026-07-24T14:53:39.512Z"
-    },
-    {
-      "kind": "entity",
-      "entity": "Premier League",
-      "type": "missing",
-      "imminent": false,
-      "headline": "Manchester United and the quest to make mythical midfield a reality",
-      "link": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter",
-      "feed": "guardian-football",
-      "matchCount": 2,
-      "detectedAt": "2026-07-24T14:53:39.512Z"
+      "detectedAt": "2026-07-24T16:32:25.877Z"
     },
     {
       "kind": "entity",
@@ -67,7 +45,18 @@
       "link": "https://www.theguardian.com/football/picture/2026/jul/24/david-squires-on-the-notable-people-and-big-moments-from-world-cup-2026",
       "feed": "guardian-football",
       "matchCount": 1,
-      "detectedAt": "2026-07-24T14:53:39.512Z"
+      "detectedAt": "2026-07-24T16:32:25.877Z"
+    },
+    {
+      "kind": "entity",
+      "entity": "Giro",
+      "type": "missing",
+      "imminent": false,
+      "headline": "Uno-X-proff skal kjempe om seieren i Offroad Finnmark",
+      "link": "https://www.nrk.no/tromsogfinnmark/uno-x-proff-skal-kjempe-om-seieren-i-offroad-finnmark-1.17968381",
+      "feed": "nrk-sport",
+      "matchCount": 1,
+      "detectedAt": "2026-07-24T16:32:25.877Z"
     },
     {
       "kind": "entity",
@@ -78,7 +67,7 @@
       "link": "https://www.nrk.no/sport/jaeger_-tok-nm-gull-pa-400-meter-1.17967566",
       "feed": "nrk-sport",
       "matchCount": 1,
-      "detectedAt": "2026-07-24T14:53:39.512Z"
+      "detectedAt": "2026-07-24T16:32:25.877Z"
     },
     {
       "kind": "tracked-claim",
@@ -90,7 +79,31 @@
       "claimedDate": "2026-08-16T00:00:00.000Z",
       "reason": "tracked.json asserts board coverage for this interest, but no matching event is on the board",
       "trackedId": "viktor-hovland",
-      "detectedAt": "2026-07-24T14:53:40.040Z"
+      "detectedAt": "2026-07-24T16:32:26.558Z"
+    },
+    {
+      "kind": "tracked-claim",
+      "entity": "Håvard «rain» Nygaard",
+      "group": "athletes",
+      "sport": "esports",
+      "type": "missing",
+      "imminent": true,
+      "claimedDate": "2026-07-24T00:00:00.000Z",
+      "reason": "tracked.json asserts board coverage for this interest, but no matching event is on the board",
+      "trackedId": "havard-rain-nygaard",
+      "detectedAt": "2026-07-24T16:32:26.558Z"
+    },
+    {
+      "kind": "tracked-claim",
+      "entity": "BLAST Bounty 2026 Season 2 (100 Thieves)",
+      "group": "tournaments",
+      "sport": "esports",
+      "type": "missing",
+      "imminent": true,
+      "claimedDate": "2026-07-26T00:00:00.000Z",
+      "reason": "tracked.json asserts board coverage for this interest, but no matching event is on the board",
+      "trackedId": "blast-bounty-2026-s2",
+      "detectedAt": "2026-07-24T16:32:26.558Z"
     }
   ],
   "anomalies": [],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T14:53:40.718Z",
+  "generatedAt": "2026-07-24T16:32:29.171Z",
   "schemaVersion": 1,
   "files": {
     "app-version.json": {
@@ -8,11 +8,11 @@
     },
     "build-alert.json": {
       "bytes": 79,
-      "sha256": "445b5b8451cad5f778b2e8985857c1a1377d5979e08910711305de01bee545be"
+      "sha256": "dac05e957bf6e2e9424937285d101de33ed46fb7d2c70c921e06db4adcb9425a"
     },
     "calibration.json": {
       "bytes": 19178,
-      "sha256": "6066ebe8710477ac007079be19d069ad2a802692c491a075f42cf8f00dbf0410"
+      "sha256": "56a5a2761b4ffee1c8359fd58aca97ea8815259a06747aa9137d0cc906ffbea3"
     },
     "catalog.json": {
       "bytes": 13175,
@@ -20,21 +20,21 @@
     },
     "chess.json": {
       "bytes": 105,
-      "sha256": "ffe87c47e164817080a77ef44066717b3adb060f38a16519feb9f3cc59503b27",
-      "sourceLastUpdated": "2026-07-24T14:52:44.288Z"
+      "sha256": "fc6fafc7c255f01d5e1d5d4901797426e985e9eb09acc0fd01b11afc4f2b88bf",
+      "sourceLastUpdated": "2026-07-24T16:31:46.602Z"
     },
     "coverage-audit.json": {
       "bytes": 5301,
       "sha256": "4a444484ba34496493e5119ae554a659489bf7b3ee61ae7c8d924c9ed833fc43"
     },
     "coverage-gaps.json": {
-      "bytes": 4092,
-      "sha256": "ffb69a10157d3b12791753f00724779b76a61e14d41b3b882275e90000038885"
+      "bytes": 4610,
+      "sha256": "0b818b4794669ad3c8099758d087b4e0733573d852cd47e17c83c673ed6ce930"
     },
     "cycling.json": {
       "bytes": 99,
-      "sha256": "418b981b1a5892cd6d6156390e3dce43598489aa6742849f396f4c38f6400d27",
-      "sourceLastUpdated": "2026-07-24T14:52:43.345Z"
+      "sha256": "0b55f6925383270ce962d11ef65fc930d670ac96a5b069071e702bae8891f722",
+      "sourceLastUpdated": "2026-07-24T16:31:45.562Z"
     },
     "entities.json": {
       "bytes": 806887,
@@ -42,21 +42,21 @@
     },
     "esports.json": {
       "bytes": 1245,
-      "sha256": "d65320b038ecbde7d2eaf4c6a91a1dc91ec4ab593063739e5ba062be98ab0ec0",
+      "sha256": "12f93cd41f862dafc8736c9564216822185dd0a8afaf514212624ec1476ca442",
       "sourceLastUpdated": "2026-07-22T17:14:23.351Z"
     },
     "events.ics": {
-      "bytes": 51329,
-      "sha256": "ae58453de13a05a63f981fef7d5f34706f02794d5ce79ccc366e5a5cf835129c"
+      "bytes": 50038,
+      "sha256": "e09f5e19e2af702981033e381e1b8377e0b4b352b259aaa87101219992147f41"
     },
     "events.json": {
-      "bytes": 114817,
-      "sha256": "c7d8983fb5eb55b85323a64eaa52afa61f7df2aac0c6a473eb5558464c1821a6"
+      "bytes": 111153,
+      "sha256": "0f9286bba0017e5a457ddb85609de1f074f58dc7268a3c51383bed9a7eeb72e8"
     },
     "f1.json": {
       "bytes": 3104,
-      "sha256": "46a43ca5db7e6137cec0cff39c763a2a8ff9409d22f634912dc3fb403eda65ba",
-      "sourceLastUpdated": "2026-07-24T14:52:44.012Z"
+      "sha256": "e5b13d7d830e209b0003535908658d66d12715ef18fb8ed44d7d2fe812e4e4ed",
+      "sourceLastUpdated": "2026-07-24T16:31:46.323Z"
     },
     "featured.json": {
       "bytes": 226,
@@ -64,13 +64,13 @@
     },
     "football.json": {
       "bytes": 1305,
-      "sha256": "2e5847df3c21e87dfd99a000dd6bca4f56afeefd1a2c58569e70cf6f9594913b",
+      "sha256": "39f7b572a8e7644efc71423e7cdfea09d37d4c335b3c1ce737b4c432543ddb17",
       "sourceLastUpdated": "2026-07-19T17:56:30.377Z"
     },
     "golf.json": {
       "bytes": 1552,
-      "sha256": "f015f7c5a89528ea67ad42e4bfc3bb65cef864584bfc28910489114fee5d22ed",
-      "sourceLastUpdated": "2026-07-24T14:52:48.854Z"
+      "sha256": "6126163dd899ce6aee0809f25a10cf86a5c0551a81512b9847ff74a197f0cbee",
+      "sourceLastUpdated": "2026-07-24T16:31:49.120Z"
     },
     "improve-log.json": {
       "bytes": 1704,
@@ -78,30 +78,30 @@
     },
     "meta.json": {
       "bytes": 39,
-      "sha256": "53b7184e7a850a969a8cc67a7902281a4f549295708709f9924f21e4dc061cb3",
-      "sourceLastUpdated": "2026-07-24T12:17:30Z"
+      "sha256": "c28cb39aa200bc055b955f01a3ac37c3798f39513fd37d2addd72923808e92df",
+      "sourceLastUpdated": "2026-07-24T14:53:40Z"
     },
     "news.json": {
-      "bytes": 24213,
-      "sha256": "13080b94a36024cfd6af22b9df5920a3f52ef6ee24add1bc99683c2241548f48"
+      "bytes": 17910,
+      "sha256": "b6323733f6b548ebdbd785bd0a42583deaf15d40b9191f8c82dba059caf45259"
     },
     "port-report.json": {
-      "bytes": 3659,
-      "sha256": "d4ed67a60e5ba7327f5beffcd22cee72fc3a8f5cccf6ea5465d1f22bd66b578a"
+      "bytes": 3658,
+      "sha256": "6513a54b75850c8e72c8ce0fb549ae2570f766e3bdffa237244e739215aa9713"
     },
     "recent-results.json": {
-      "bytes": 14724,
-      "sha256": "e4c9e576c1542df32fab12d26e1df37b70a05d3691893379531771c344fca42c",
-      "sourceLastUpdated": "2026-07-24T14:53:21.489Z"
+      "bytes": 14725,
+      "sha256": "449b01246118003896af3235bede7e64f4af3b7b82eb6d3ac4a0a58924d8f429",
+      "sourceLastUpdated": "2026-07-24T16:32:06.993Z"
     },
     "research-log.json": {
       "bytes": 7358,
       "sha256": "a3787bbc781b51de8e58862e355d0f91a22cfd852fb5a4e596de6bffcd10d9e2"
     },
     "rss-digest.json": {
-      "bytes": 27635,
-      "sha256": "2bdc8c47abbe33afd79c3adda9281b12741ab37ba4de45d85f37e610f4e3ad3b",
-      "sourceLastUpdated": "2026-07-24T14:53:15.505Z"
+      "bytes": 21567,
+      "sha256": "1eed2c6b8816bf806d015df3d136f33cba87dece7df8a6133eac9a573e6125e6",
+      "sourceLastUpdated": "2026-07-24T16:32:06.887Z"
     },
     "scout-log.json": {
       "bytes": 34278,
@@ -112,14 +112,14 @@
       "sha256": "3da5ca267225700fbc187151e25d93170c4bd92066d8a1db807d52a487a0e30e"
     },
     "standings.json": {
-      "bytes": 29785,
-      "sha256": "09bffa460f4012bfe08182eae3bd9687a5b3192d138250460fc872d4fd681550",
-      "sourceLastUpdated": "2026-07-24T14:53:00.784Z"
+      "bytes": 29772,
+      "sha256": "ac41355b0294fd7d31c7b7c1352c04e2427036eecf6a4b77266acf36198435cb",
+      "sourceLastUpdated": "2026-07-24T16:31:57.096Z"
     },
     "tennis.json": {
       "bytes": 3893,
-      "sha256": "7938edc083c88b276c413cfe3d12cde3791fd09fe7ae3e2bad947dc2b33208df",
-      "sourceLastUpdated": "2026-07-24T14:52:49.094Z"
+      "sha256": "caf78496bda1eb9d17039ab4b401b54c54557c328e7597a58064da25782a4b01",
+      "sourceLastUpdated": "2026-07-24T16:31:48.826Z"
     },
     "tracked.json": {
       "bytes": 103286,
@@ -127,20 +127,20 @@
       "sourceLastUpdated": "2026-07-24T14:20:00Z"
     },
     "tv-listings.json": {
-      "bytes": 2220,
-      "sha256": "2b91e193ff2e1035a2c1934618ee6455e86cd71f84b3d7a9bdd27ad9d59787a2"
+      "bytes": 1899,
+      "sha256": "3516f73ea65df6ebab4b780857875a87463851ec069812ebdba10e20f7470e6c"
     },
     "ui-fix-log.json": {
       "bytes": 1538,
       "sha256": "61326778ae01edb0d5cc49e6c9d05d451d7786d0388672d1c3a5dbbaa79ad263"
     },
     "usage-state.json": {
-      "bytes": 527,
-      "sha256": "323b63549b54444409fea44725bc5b8ffc64b3865e173b9489c55c694cd5a356"
+      "bytes": 509,
+      "sha256": "9e9214fb1ebe7b4497eb49684ccd63ae921d84f3197b8a88e62085a8ae1aace8"
     },
     "usage-summary.json": {
-      "bytes": 500,
-      "sha256": "7943bc6b7dfd4f0f228aa9b6d7173607129cabf08c964ab0daa7e24bc0581f7c"
+      "bytes": 501,
+      "sha256": "dd44b2ecaad2e9415f7d681b1c0039c8215852fd4949b52c2e524a05fb967726"
     },
     "verify-log.json": {
       "bytes": 1767,
